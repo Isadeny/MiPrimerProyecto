@@ -1,2 +1,3 @@
 Primer objetivo: Poder manejar con soltura todas las herramientas posibles para poder empezar mi inmersión en el mundo de fullstack
 Segundo objetivo: Aprender a manejar con soltura los diferentes lenguajes necesarios para desarrollarme como fullstack
+Tercer objetivo: Ser capaz de poner en practica todo lo aprendido de forma natural
